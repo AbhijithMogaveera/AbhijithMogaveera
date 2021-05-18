@@ -1,6 +1,6 @@
 <h2> Hi, I'm Abhijith Mogaveera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/uK3mEG7Yv6UhnGLNLt/giphy.gif" width="230">
-<p><em>I graduated from <a href="https://mangaloreuniversity.ac.in/">Manglore University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Application Developer <a href="https://developer.android.com/">Native Android</a> & <a href="https://flutter.dev/">Flutter</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I graduated from <a href="https://mangaloreuniversity.ac.in/">Manglore University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Application Developer <a href="https://developer.android.com/">Native Android</a>
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AbhijithMogave2?style=social)](https://twitter.com/AbhijithMogave2)
@@ -12,10 +12,10 @@
 ```javascript
 const abhijithMogaveera = {
   pronouns: "he" | "him",
-  code: [Kotlin, java, dart],
+  code: [Kotlin, java],
   tools: [Firebase, Ktor, retofit],
   architecture: ["MVVM", "MVC"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on Ktor"
+  challenge: "I am doing the #100DaysOfCode challenge focused on JetpackCompose"
 }
 ```
 
