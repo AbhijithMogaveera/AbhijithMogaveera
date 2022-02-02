@@ -12,10 +12,10 @@
 ```javascript
 const abhijithMogaveera = {
   pronouns: "he" | "him",
-  code: [Kotlin, java],
-  tools: [Firebase, Ktor, retofit],
+  code: [Kotlin, java, js],
+  tools: [Android, Node js],
   architecture: ["MVVM", "MVC"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on JetpackCompose"
+  challenge: "I am doing the #100DaysOfCode challenge focused on Node js"
 }
 ```
 
