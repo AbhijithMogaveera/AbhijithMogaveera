@@ -12,8 +12,8 @@
 ```javascript
 const abhijithMogaveera = {
   pronouns: "he" | "him",
-  code: [Kotlin, java, js],
-  tools: [Android, Node js],
+  code: [Kotlin, Java, Js],
+  tools: [Android, NodeJs],
   architecture: ["MVVM", "MVC"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Node js"
 }
