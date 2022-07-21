@@ -12,10 +12,9 @@
 ```javascript
 const abhijithMogaveera = {
   pronouns: "he" | "him",
-  code: [Kotlin, Java, Js],
-  tools: [Android, NodeJs],
+  code: [Kotlin, Java, Dart],
+  tools: [Android, Flutter, Spring boot],
   architecture: ["MVVM", "MVC"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on Node js"
 }
 ```
 <img src="https://developer.android.com/images/hero-assets/android-jetpack.svg">
