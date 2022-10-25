@@ -4,7 +4,6 @@
 </em></p>
 </br>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AbhijithMogave2?style=social)](https://twitter.com/AbhijithMogave2)
 [![Linkedin: abhijith](https://img.shields.io/badge/-abhijith_mogaveera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-mogaveera-822308199/)](https://www.linkedin.com/in/abhijith-mogaveera-822308199/)
 [![GitHub Abhijith_mogaveera](https://img.shields.io/github/followers/AbhijithMogaveera?label=follow&style=social)](https://github.com/AbhijithMogaveera/)
 </br>
