@@ -5,7 +5,6 @@
 </br>
 
 [![Linkedin: abhijith](https://img.shields.io/badge/-abhijith_mogaveera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-mogaveera-822308199/)](https://www.linkedin.com/in/abhijith-mogaveera-822308199/)
-[![GitHub Abhijith_mogaveera](https://img.shields.io/github/followers/AbhijithMogaveera?label=follow&style=social)](https://github.com/AbhijithMogaveera/)
 </br>
 </br>
 <a href="https://stackoverflow.com/users/8370216/abhijith-mogaveera"><img src="https://stackoverflow.com/users/flair/8370216.png?theme=clean" width="208" height="58" alt="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
