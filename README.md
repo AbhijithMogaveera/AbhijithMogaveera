@@ -7,7 +7,6 @@
 [![Linkedin: abhijith](https://img.shields.io/badge/-abhijith_mogaveera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-mogaveera-822308199/)](https://www.linkedin.com/in/abhijith-mogaveera-822308199/)
 </br>
 </br>
-<a href="https://stackoverflow.com/users/8370216/abhijith-mogaveera"><img src="https://stackoverflow.com/users/flair/8370216.png?theme=clean" width="208" height="58" alt="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
         
 </br></br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -24,3 +23,5 @@ const abhijithMogaveera = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+<a href="https://stackoverflow.com/users/8370216/abhijith-mogaveera"><img src="https://stackoverflow.com/users/flair/8370216.png?theme=clean" width="208" height="58" alt="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
