@@ -11,13 +11,13 @@
 </br></br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const abhijithMogaveera = {
-  pronouns: "he" | "him",
-  code: [Kotlin, Java],
-  tools: [Android, Spring boot],
-  architecture: ["MVVM", "MVC"],
-}
+```kotlin
+val abhijithMogaveera = mapOf(
+    "pronouns" to listOf("he", "him"),
+    "code" to listOf("Kotlin", "Java"),
+    "tools" to listOf("Android", "Spring Boot"),
+    "architecture" to listOf("MVVM", "MVC")
+)
 ```
 <img src="https://developer.android.com/images/hero-assets/android-jetpack.svg">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
