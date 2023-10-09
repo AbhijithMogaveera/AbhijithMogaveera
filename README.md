@@ -14,8 +14,8 @@
 ```javascript
 const abhijithMogaveera = {
   pronouns: "he" | "him",
-  code: [Kotlin, Java, Dart],
-  tools: [Android, Flutter, Spring boot],
+  code: [Kotlin, Java],
+  tools: [Android, Spring boot],
   architecture: ["MVVM", "MVC"],
 }
 ```
