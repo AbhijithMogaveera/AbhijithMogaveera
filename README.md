@@ -14,8 +14,8 @@
 ```kotlin
 val abhijithMogaveera = mapOf(
     "pronouns" to listOf("he", "him"),
-    "code" to listOf("Kotlin", "Java"),
-    "tools" to listOf("Android", "Spring Boot"),
+    "lagnuage" to listOf("Kotlin", "Java", "TypeScript"),
+    "framework" to listOf("Android", "Express+TS"),
     "architecture" to listOf("MVVM", "MVC")
 )
 ```
