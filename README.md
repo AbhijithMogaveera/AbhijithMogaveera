@@ -4,7 +4,10 @@
 </em></p>
 </br>
 
+![](https://komarev.com/ghpvc/?username=AbhijithMogaveera)
+
 [![Linkedin: abhijith](https://img.shields.io/badge/-abhijith_mogaveera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-mogaveera-822308199/)](https://www.linkedin.com/in/abhijith-mogaveera-822308199/)
+
 </br>
 </br>
         
