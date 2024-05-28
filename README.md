@@ -1,30 +1,13 @@
-<h2> Hi, I'm Abhijith Mogaveera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/uK3mEG7Yv6UhnGLNLt/giphy.gif" width="230">
-<p><em>I graduated from <a href="https://mangaloreuniversity.ac.in/">Manglore University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Application Developer <a href="https://developer.android.com/">Native Android</a>
-</em></p>
-</br>
+![](https://komarev.com/ghpvc/?username=AbhijithMogaveera&style=for-the-badge&color=000000)
 
-![](https://komarev.com/ghpvc/?username=AbhijithMogaveera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-09f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-mogaveera-822308199/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhialur8898@gmail.com)
 
-[![Linkedin: abhijith](https://img.shields.io/badge/-abhijith_mogaveera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-mogaveera-822308199/)](https://www.linkedin.com/in/abhijith-mogaveera-822308199/)
+[![](https://img.shields.io/twitter/follow/thelumiereguy?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abhijith__99)](https://twitter.com/abhijith__99)
 
-</br>
-</br>
-        
-</br></br>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+![](https://img.shields.io/github/stars/AbhijithMogaveera?color=09f&label=Stars%20Earned&logo=github&style=for-the-badge&labelColor=black)
 
-```kotlin
-val abhijithMogaveera = mapOf(
-    "pronouns" to listOf("he", "him"),
-    "lagnuage" to listOf("Kotlin", "Java", "TypeScript"),
-    "framework" to listOf("Android", "Express+TS"),
-    "architecture" to listOf("MVVM", "MVC")
-)
-```
-<img src="https://developer.android.com/images/hero-assets/android-jetpack.svg">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## Hey there, I'm **Abhijith Mogaveera**
 
----
+Welcome to my safe haven! :wave:
 
-<a href="https://stackoverflow.com/users/8370216/abhijith-mogaveera"><img src="https://stackoverflow.com/users/flair/8370216.png?theme=clean" width="208" height="58" alt="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abhijith mogaveera at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+I work as a Software Engineer at [Jar Technologies](https://www.myjar.app/), where I handle Android and KMM. I've worked with Express TS in the past, but I personally prefer native now. I love working with **Kotlin** , **Rust** and **TypeScript**. 
