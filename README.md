@@ -7,7 +7,7 @@
 
 Welcome to my safe haven! :wave:
 
-I work as a Senior Software Engineer at [Jar Technologies](https://www.myjar.app/), where I handle Android and KMM. I've worked with Express TS in the past, but I personally prefer native now. I love working with **Kotlin** , **Rust** and **TypeScript**. 
+I work as a Senior Software Engineer at [Gojek](https://www.gojek.io/), where I handle Android and KMM. I've worked with Express TS in the past, but I personally prefer native now. I love working with **Kotlin** , **Rust** and **TypeScript**. 
 </br>
 </br>
   
